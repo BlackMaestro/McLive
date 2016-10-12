@@ -1,2 +1,3 @@
 ender eye
 ender pearl
+ender dust
